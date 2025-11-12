@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(204, 229, 255);
+}
+
+h1 {
+    color: rgb(0, 76, 153);
+    font-family: 'Bernard MT Condensed';  /* Correction du nom de la police */
+    font-size: 300%;
+	text-align: center;
+}
+
+p {
+	font-family: "Arial Rounded MT", Arial, sans-serif;  /* Correction du nom de la police */
+	color: white;
+	text-align: center;
+}
+
+
+h2 {
+    color: rgb(51, 153, 255);
+    font-family: "Arial Rounded MT", Arial, sans-serif;  /* Correction du nom de la police */
+    font-size: 300%;
+	text-align: center;
+}
+
+
