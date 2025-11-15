@@ -60,11 +60,10 @@ box-shadow: 0 4px 12px rgba(79, 70, 229, 0.3);
 }
 
 .avatar img {
-  width: 100%;       /* Remplit la largeur de la bulle */
-  height: 100%;      /* Remplit la hauteur de la bulle */
-  object-fit: cover; /* Ajuste l’image pour couvrir la bulle sans déformer */
-  border-radius: 50%; /* Ronde pour correspondre à la bulle */
-}
+  width: 100%;  
+  height: 100%;   
+  object-fit: cover;
+  border-radius: 50%; 
 
 
 h1 {
@@ -110,4 +109,5 @@ margin-top: 12px;
 }
 
 }
+
 
