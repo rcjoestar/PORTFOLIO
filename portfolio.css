@@ -46,8 +46,8 @@ justify-content: space-between;
 
 
 .avatar {
-width: 90px;
-height: 90px;
+width: 120px;
+height: 120px;
 border-radius: 50%;
 background: linear-gradient(135deg, var(--accent), #7c3aed);
 display: flex;
@@ -109,6 +109,7 @@ margin-top: 12px;
 }
 
 }
+
 
 
 
