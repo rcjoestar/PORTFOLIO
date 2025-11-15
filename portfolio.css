@@ -77,4 +77,29 @@ margin-top: 8px;
 .main-nav {
 margin-top: 12px;
 }
+.section.veille, 
+.section.e5 {
+  margin-top: 40px;
+}
+
+.section.veille h2,
+.section.e5 h2 {
+  color: #4f46e5;
+  border-bottom: 2px solid #a5b4fc;
+  display: inline-block;
+  padding-bottom: 4px;
+}
+
+.section.veille ul,
+.section.e5 ul {
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+.section.veille li,
+.section.e5 li {
+  margin-bottom: 6px;
+  color: #334155;
+}
+
 }
